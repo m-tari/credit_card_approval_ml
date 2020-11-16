@@ -4,4 +4,4 @@ In this project, I’ll be using Credit Card Approval Dataset from UCI Machine L
 
 Dataset is available in this repository.
 
-I have used Logistic Regression Model to train and test
+I have used Logistic Regression Model to train and test the Credit Card Approval dataset.
