@@ -1,9 +1,11 @@
-# Predicting Credit Card Approvals using ML Techniques
+# Status: Under Development
 
-In this project, I’ll be using Credit Card Approval Dataset from UCI Machine Learning Repository. 
+# Motivation
 
-Dataset is available in this repository.
+We look at a very practical problem that is faced by finiancial institutions today. How to accepet or reject credit card applications, fast and automated? The project is inspired by the following github repository: https://github.com/Ravjot03/Predicting-Credit-Card-Approvals. Our goal is to:
 
-I have used Logistic Regression Model to train and test the Credit Card Approval dataset.
+  - replicate the original results,
+  - perform an exploretory data analysis,
+  - and improve the the model prediction.
 
-**Medium Blog Link -->** [Predicting Credit Card Approvals using ML Techniques](https://medium.com/datadriveninvestor/predicting-credit-card-approvals-using-ml-techniques-9cd8eaeb5b8c)
+
