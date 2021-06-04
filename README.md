@@ -9,3 +9,4 @@ We look at a practical problem that is faced by finiancial institutions. How to 
   - and improve the the model prediction.
 
 
+The implementation and disscussion exists in **credit_card_approval.ipynb** file.
